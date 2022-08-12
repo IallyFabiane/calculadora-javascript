@@ -24,6 +24,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  min-width: 450px;
   max-width: 640px;
   margin: 7% auto;
   background-color: #fff;
